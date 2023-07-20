@@ -6,12 +6,12 @@ This project presents an integer programming model to optimize the scheduling of
 
 ## **Table of Contents**
 
-1. **[Introduction]**
-2. **[Data]**
-3. **[Requirements]**
-4. **[Usage]**
-5. **[Optimization Model]**
-6. **[Results]**
+1. **Introduction**
+2. **Data**
+3. **Requirements**
+4. **Usage**
+5. **Optimization Model**
+6. **Results**
 
 
 ## **Introduction**
