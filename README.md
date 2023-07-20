@@ -4,10 +4,11 @@
 
 This project presents an integer programming model to optimize the scheduling of exams during the examination period while minimizing the penalties associated with conflicting exams. The model ensures that each exam is scheduled exactly once, no conflicting exams are held in the same time slot, and other equity measures are considered to enhance the overall quality of the schedule.
 
-Our implementation cab be found in the python files and we wrote down the same codes in one colab ipynb file. One can have acces to this colab project with the next link:
+Our model is described in the Discrete_optimization_project.pdf file.
+
+Our implementation can be found in the python files and we wrote down the same codes in one colab ipynb file. One can have acces to this colab project with the next link:
 https://colab.research.google.com/drive/1PF8AFmczOm4ndXCd1tm9693dVlSMWI5p?usp=sharing
 
-Our model is described in the Discrete_optimization_project.pdf file.
 
 ## **Table of Contents**
 
